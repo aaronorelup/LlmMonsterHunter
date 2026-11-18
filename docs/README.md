@@ -74,6 +74,9 @@ of date, and no maintenance is owed. Update only when you change your mind.
 - [ideas.md](ideas.md) — unranked by effort, ranked by heart
 - [design/wish-engine.md](design/wish-engine.md) — design-only proposal,
   no code written
+- [design/jev-decision-layer.md](design/jev-decision-layer.md) — design-only
+  review (Sept 2026): moving every referee decision to TypeSafe's Jev and
+  retiring the ladder arithmetic; gated on the M0 replay experiment
 - [design/imagination-engine/](design/imagination-engine/) and
   [design/setting-engine/](design/setting-engine/) — exploratory musings,
   self-labelled as not plan docs
